@@ -1,0 +1,7 @@
+mysql-connector-python
+pandas
+numpy
+jupyter
+notebook
+ipykernel
+sqlalchemy
