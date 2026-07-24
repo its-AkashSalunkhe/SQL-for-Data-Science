@@ -57,31 +57,31 @@ Run the files in the following order:
 
 ### Database Created
 
-![Database Created](Output_Screenshots/ss1.jpg)
+![Database Created](/Output_Screenshots/ss1.jpg)
 
 ---
 
 ### Student Registration
 
-![Student Registration](Output_Screenshots/ss2.jpg)
+![Student Registration](/Output_Screenshots/ss2.jpg)
 
 ---
 
 ### Update Records Stored in Database
 
-![Update Records](Output_Screenshots/ss3.jpg)
+![Update Records](/Output_Screenshots/ss3.jpg)
 
 ---
 
 ### Delete the Record from Database
 
-![Delete Records](Output_Screenshots/ss4.jpg)
+![Delete Records](/Output_Screenshots/ss4.jpg)
 
 ---
 
 ### Final Database Output
 
-![Final Output](Output_Screenshots/ss5.jpg)
+![Final Output](/Output_Screenshots/ss5.jpg)
 
 ---
 
