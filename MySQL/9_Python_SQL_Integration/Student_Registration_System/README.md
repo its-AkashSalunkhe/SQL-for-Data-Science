@@ -1,8 +1,8 @@
-# 🧑‍💼 Employee Registration System
+# 🧑‍💼 Student Registration System
 
-A simple Employee Registration System built using **Python** and **MySQL**.
+A simple Student Registration System built using **Python** and **MySQL**.
 
-This project demonstrates how Python interacts with a MySQL database to perform basic database operations such as creating a database, creating tables, inserting employee records, and retrieving stored data.
+This project demonstrates how Python interacts with a MySQL database to perform basic database operations such as creating a database, creating tables, inserting Student records, and retrieving stored data.
 
 ---
 
@@ -10,9 +10,9 @@ This project demonstrates how Python interacts with a MySQL database to perform 
 
 - Connect Python with MySQL
 - Create a MySQL database
-- Create Employee table
-- Insert employee records
-- Display stored employee details
+- Create Student table
+- Insert Student records
+- Display stored Student details
 - Simple command-line interface
 
 ---
@@ -28,13 +28,13 @@ This project demonstrates how Python interacts with a MySQL database to perform 
 ## 📂 Project Structure
 
 ```text
-Employee_Registration_System/
+Student_Registration_System/
 │
 ├── connection.py
 ├── create_database.py
 ├── create_table.py
 ├── insert_value_in_database.py
-├── employee_registration.py
+├── Student_registration.py
 ├── Screenshots/
 └── README.md
 ```
@@ -49,7 +49,7 @@ Run the files in the following order:
 2. `create_database.py`
 3. `create_table.py`
 4. `insert_value_in_database.py`
-5. `employee_registration.py`
+5. `Student_registration.py`
 
 ---
 
@@ -57,33 +57,34 @@ Run the files in the following order:
 
 ### Database Created
 
-![Database Created](Screenshots/01_database_created.png)
+![Database Created](Output_Screenshots/ss1.png)
 
 ---
 
-### Table Created
+### Student Registration
 
-![Table Created](Screenshots/02_table_created.png)
-
----
-
-### Employee Registration
-
-![Employee Registration](Screenshots/03_insert_record.png)
+![Student Registration](Output_Screenshots/ss2.png)
 
 ---
 
-### Records Stored in Database
+### Update Records Stored in Database
 
-![Records](Screenshots/04_show_records.png)
+![Update Records](Output_Screenshots/ss3.png)
+
+---
+
+### Delete the Record from Database
+
+![Delete Records](Output_Screenshots/ss4.png)
 
 ---
 
-### Final Project Output
+### Final Database Output
 
-![Final Output](Screenshots/05_final_output.png)
+![Final Output](Output_Screenshots/ss5.png)
 
 ---
+
 
 ## 📚 Concepts Covered
 
